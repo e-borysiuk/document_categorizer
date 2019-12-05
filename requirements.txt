@@ -1,0 +1,4 @@
+num2words
+numpy
+nltk
+sklearn
